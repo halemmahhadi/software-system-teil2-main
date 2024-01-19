@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+    padding: 25px;
+}
+
+.canvas {
+    width: 500px;
+    height: 500px;
+    background-color: grey;
+    cursor: pointer;
+}
+
